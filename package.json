@@ -1,12 +1,11 @@
 {
-  "name": "pulse",
+  "name": "portfolio",
   "version": "1.0.0",
-  "description": "",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "bondarkoveg",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.26.12",
@@ -25,5 +24,14 @@
     "> 1%",
     "maintained node versions",
     "not dead"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bondarkoff/Portfolio_example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bondarkoff/Portfolio_example/issues"
+  },
+  "homepage": "https://github.com/bondarkoff/Portfolio_example#readme",
+  "description": ""
 }
